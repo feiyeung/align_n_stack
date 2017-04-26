@@ -1,0 +1,7 @@
+The codes here are for a class project at Drexel University. It is designed to align and stack multiple almost-static pictures in order to reduce random noise. 
+It is assumed that the photographer is using a handhold device without tripod, so photos are generally static with small variations from one to the other. This can happen when the environment is dim so a single long exposure is not allowed. 
+
+FAST algorithm and matching are taken from a MATLAB tutorial for video stabilization. https://www.mathworks.com/help/vision/examples/video-stabilization-using-point-feature-matching.html
+
+ DBSCAN is taken from MATLAB central file exchange: https://www.mathworks.com/matlabcentral/fileexchange/52905-dbscan-clustering-algorithm
+
